@@ -10,3 +10,4 @@ Article.create(title: "Second article", description: "This is a boring story")
 
 User.create(username: "theo", email: "theo@email.com")
 User.create(username: "peter", email: "peter@email.com")
+User.create(username: "tim", email: "tim@email.com")
