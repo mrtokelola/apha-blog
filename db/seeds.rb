@@ -8,6 +8,5 @@
 Article.create(title: "First article", description: "This is an interesting story")
 Article.create(title: "Second article", description: "This is a boring story")
 
-User.create(username: "theo", email: "theo@email.com")
-User.create(username: "peter", email: "peter@email.com")
-User.create(username: "tim", email: "tim@email.com")
+User.create(user_id: 1, username: "theo", email: "theo@email.com")
+User.create(user_id:2, username: "peter", email: "peter@email.com")
